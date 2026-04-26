@@ -18,7 +18,7 @@ Instead of manually auditing pages, this tool provides a birds-eye view of a web
 * **Analysis:** NLTK / Spacy (Natural Language Processing)
 
 ## 📦 Usage
-```bash
+
 python main.py --url "[https://example.com](https://example.com)" --depth 2
 # keyword-crawler-visualizer
 Python tool that crawls Bing search results for a keyword and visualizes the top links as a graph. Useful for SEO analysis, keyword mapping, and exploring SERP relationships.
